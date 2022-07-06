@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManVsRobot
-- I’m interested in RPA, DevOps, Security, Scripting, BPMS, and implementing best practices wherever possible. 
-- My goal is to be a life-long learner and help people through the power of automation.
+- I’m interested in RPA, DevSecOps, Security, Scripting, and implementing best practices wherever possible. 
+- My goal is to be a life-long learner.
 
 A little bit about me: https://manvsrobot.github.io/Landing/index# 
 <!---
